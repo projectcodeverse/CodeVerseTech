@@ -190,7 +190,7 @@ This project is licensed under the MIT License.
 
 ## 📞 Support
 
-For support, email info@codeverse.tech or join our community.
+For support, email projectcodeverse@gmail.com or join our community.
 
 ---
 
