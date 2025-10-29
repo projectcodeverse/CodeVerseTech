@@ -8,7 +8,8 @@ const Home: React.FC = () => {
     { number: '25+', label: 'Clients Served' },
     { number: '3+', label: 'Years Experience' }
   ];
-
+ 
+  
   const testimonials = [
     {
       name: 'Priya Sharma',
