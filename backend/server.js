@@ -47,13 +47,8 @@ app.post('/api/internships', async (req, res) => {
       console.log('Saved to memory:', savedData.id);
     }
     
-    // Send email notification
-    try {
-      await sendInternshipNotification(req.body);
-      console.log('Email notification sent');
-    } catch (emailError) {
-      console.log('Email notification failed:', emailError.message);
-    }
+    // Email notification disabled for now
+    console.log('Email notification skipped');
     
     res.status(201).json({ message: 'Application submitted successfully', data: savedData });
   } catch (error) {
@@ -78,13 +73,8 @@ app.post('/api/contact', async (req, res) => {
       console.log('Saved to memory:', savedData.id);
     }
     
-    // Send email notification
-    try {
-      await sendContactNotification(req.body);
-      console.log('Email notification sent');
-    } catch (emailError) {
-      console.log('Email notification failed:', emailError.message);
-    }
+    // Email notification disabled for now
+    console.log('Email notification skipped');
     
     res.status(201).json({ message: 'Message sent successfully', data: savedData });
   } catch (error) {
