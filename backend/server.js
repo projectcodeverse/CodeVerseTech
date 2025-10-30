@@ -7,7 +7,10 @@ require('dotenv').config();
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors({
+  origin: ['https://projectcodeverse.github.io', 'http://localhost:3000'],
+  credentials: true
+}));
 app.use(express.json());
 
 // In-memory storage as fallback
