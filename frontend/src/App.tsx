@@ -19,7 +19,7 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/CodeVerseTech">
       <div className="App bg-background min-h-screen">
         <Navbar />
         <Routes>
