@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/projectcodeverse/CodeVerseTech/tree/main/frontend/static/css/main.f0cb267f.css",
-    "main.js": "/projectcodeverse/CodeVerseTech/tree/main/frontend/static/js/main.2df5f710.js",
-    "static/js/453.44fd104a.chunk.js": "/projectcodeverse/CodeVerseTech/tree/main/frontend/static/js/453.44fd104a.chunk.js",
-    "index.html": "/projectcodeverse/CodeVerseTech/tree/main/frontend/index.html",
-    "main.f0cb267f.css.map": "/projectcodeverse/CodeVerseTech/tree/main/frontend/static/css/main.f0cb267f.css.map",
-    "main.2df5f710.js.map": "/projectcodeverse/CodeVerseTech/tree/main/frontend/static/js/main.2df5f710.js.map",
-    "453.44fd104a.chunk.js.map": "/projectcodeverse/CodeVerseTech/tree/main/frontend/static/js/453.44fd104a.chunk.js.map"
+    "main.css": "/CodeVerseTech/static/css/main.f0cb267f.css",
+    "main.js": "/CodeVerseTech/static/js/main.c0f34c80.js",
+    "static/js/453.44fd104a.chunk.js": "/CodeVerseTech/static/js/453.44fd104a.chunk.js",
+    "index.html": "/CodeVerseTech/index.html",
+    "main.f0cb267f.css.map": "/CodeVerseTech/static/css/main.f0cb267f.css.map",
+    "main.c0f34c80.js.map": "/CodeVerseTech/static/js/main.c0f34c80.js.map",
+    "453.44fd104a.chunk.js.map": "/CodeVerseTech/static/js/453.44fd104a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0cb267f.css",
-    "static/js/main.2df5f710.js"
+    "static/js/main.c0f34c80.js"
   ]
 }
