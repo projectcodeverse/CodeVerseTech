@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CodeVerseTech/static/css/main.f0cb267f.css",
-    "main.js": "/CodeVerseTech/static/js/main.3325f3ea.js",
-    "static/js/453.d7446e4a.chunk.js": "/CodeVerseTech/static/js/453.d7446e4a.chunk.js",
+    "main.js": "/CodeVerseTech/static/js/main.c0f34c80.js",
+    "static/js/453.44fd104a.chunk.js": "/CodeVerseTech/static/js/453.44fd104a.chunk.js",
     "index.html": "/CodeVerseTech/index.html",
     "main.f0cb267f.css.map": "/CodeVerseTech/static/css/main.f0cb267f.css.map",
-    "main.3325f3ea.js.map": "/CodeVerseTech/static/js/main.3325f3ea.js.map",
-    "453.d7446e4a.chunk.js.map": "/CodeVerseTech/static/js/453.d7446e4a.chunk.js.map"
+    "main.c0f34c80.js.map": "/CodeVerseTech/static/js/main.c0f34c80.js.map",
+    "453.44fd104a.chunk.js.map": "/CodeVerseTech/static/js/453.44fd104a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0cb267f.css",
-    "static/js/main.3325f3ea.js"
+    "static/js/main.c0f34c80.js"
   ]
 }
